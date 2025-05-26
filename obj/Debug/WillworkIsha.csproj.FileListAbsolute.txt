@@ -1,0 +1,894 @@
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\WillworkIsha.exe.config
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\WillworkIsha.exe
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\WillworkIsha.pdb
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Azure.Core.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Azure.Identity.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Buffers.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.ClientModel.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Memory.Data.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Memory.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Text.Json.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.ValueTuple.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\EnvDTE.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\stdole.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Azure.Core.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Azure.Identity.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Buffers.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.ClientModel.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Memory.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Memory.Data.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Text.Json.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\System.ValueTuple.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\EnvDTE.xml
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.exe.config
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.Properties.Resources.resources
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\Willwork.9B3B955C.Up2Date
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.exe
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.pdb
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.FrmMain.resources
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.FrmRep1.resources
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.FrmRep2.resources
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.FrmRep3.resources
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.FrmRep4.resources
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.FrmRep5.resources
+C:\Users\Dell\source\repos\C#\WillworkIsha\obj\Debug\WillworkIsha.FrmRep6.resources
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\WillworkIsha.exe.config
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\WillworkIsha.exe
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\WillworkIsha.pdb
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Azure.Core.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Azure.Identity.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Identity.Client.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Buffers.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.ClientModel.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Data.SqlClient.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Memory.Data.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Memory.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Numerics.Vectors.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Security.AccessControl.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Security.Principal.Windows.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Text.Encodings.Web.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Text.Json.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.ValueTuple.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\EnvDTE.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\stdole.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\EnvDTE80.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\VSLangProj.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\VSLangProj80.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.MSXML.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Build.Framework.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.VisualStudio.Interop.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\VSLangProj2.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Azure.Core.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Azure.Identity.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Identity.Client.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Buffers.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.ClientModel.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Data.SqlClient.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Memory.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Memory.Data.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Numerics.Vectors.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Security.AccessControl.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Security.Principal.Windows.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Text.Encodings.Web.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Text.Json.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\System.ValueTuple.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\EnvDTE.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\EnvDTE80.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\VSLangProj.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\VSLangProj80.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\VSLangProj2.xml
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.csproj.AssemblyReference.cache
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.csproj.SuggestedBindingRedirects.cache
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.exe.config
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.FrmRep1.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.FrmMain.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.FrmRep2.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.FrmRep3.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.FrmRep4.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.FrmRep5.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.FrmRep6.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.Properties.Resources.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.csproj.GenerateResource.cache
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.csproj.CoreCompileInputs.cache
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\Willwork.9B3B955C.Up2Date
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.exe
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.pdb
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.EntryPoint.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.InstructorMainPage.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.InstructorMenu.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.StudentMainPage.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.StudentMenu.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.testForm.resources
+D:\Downloads\WillworkIsha\WillworkIsha\obj\Debug\WillworkIsha.ExamGen.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\WillworkIsha.exe.config
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\WillworkIsha.exe
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\WillworkIsha.pdb
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Azure.Core.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Azure.Identity.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Identity.Client.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Buffers.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.ClientModel.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Data.SqlClient.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Memory.Data.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Memory.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Numerics.Vectors.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.AccessControl.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Principal.Windows.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Text.Encodings.Web.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Text.Json.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.ValueTuple.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\EnvDTE.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\stdole.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\EnvDTE80.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\VSLangProj.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\VSLangProj80.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.MSXML.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Build.Framework.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.VisualStudio.Interop.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\VSLangProj2.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Azure.Core.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Azure.Identity.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Identity.Client.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Buffers.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.ClientModel.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Data.SqlClient.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Memory.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Memory.Data.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Numerics.Vectors.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.AccessControl.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Principal.Windows.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Text.Encodings.Web.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Text.Json.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\System.ValueTuple.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\EnvDTE.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\EnvDTE80.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\VSLangProj.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\VSLangProj80.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\VSLangProj2.xml
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.csproj.AssemblyReference.cache
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.csproj.SuggestedBindingRedirects.cache
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.exe.config
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.EntryPoint.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.ExamGen.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep1.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmMain.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep2.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep3.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep4.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep5.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep6.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.InstructorMainPage.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.InstructorMenu.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.Properties.Resources.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.StudentMainPage.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.StudentMenu.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.csproj.GenerateResource.cache
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.csproj.CoreCompileInputs.cache
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\Willwork.9B3B955C.Up2Date
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.exe
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.pdb
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.takeExam.resources
+D:\ITI\SQL Project\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.pickCrsExam.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\WillworkIsha.exe.config
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\WillworkIsha.exe
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\WillworkIsha.pdb
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Azure.Core.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Azure.Identity.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Bcl.Cryptography.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Buffers.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.ClientModel.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Data.SqlClient.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.IO.FileSystem.AccessControl.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Memory.Data.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Memory.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.AccessControl.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Cryptography.Pkcs.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Text.Json.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.ValueTuple.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\EnvDTE.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\stdole.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Azure.Core.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Azure.Identity.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Bcl.Cryptography.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Buffers.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.ClientModel.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Data.SqlClient.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Memory.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Memory.Data.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.AccessControl.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Text.Json.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\System.ValueTuple.xml
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.csproj.AssemblyReference.cache
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.exe.config
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.EntryPoint.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.ExamGen.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.pickCrsExam.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.takeExam.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep1.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmMain.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep2.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep3.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep4.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep5.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.FrmRep6.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.InstructorMainPage.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.InstructorMenu.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.Properties.Resources.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.StudentMainPage.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.StudentMenu.resources
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.csproj.GenerateResource.cache
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.csproj.CoreCompileInputs.cache
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\Willwork.9B3B955C.Up2Date
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.exe
+C:\Users\m.s\Desktop\inshaalaahfinal\WillworkIshaNEW\WillworkIsha\obj\Debug\WillworkIsha.pdb
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\WillworkIsha.exe.config
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\WillworkIsha.exe
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\WillworkIsha.pdb
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Azure.Core.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Azure.Identity.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Bcl.Cryptography.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.Options.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Identity.Client.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Buffers.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.ClientModel.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Data.SqlClient.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.IO.FileSystem.AccessControl.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Memory.Data.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Memory.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Numerics.Vectors.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Security.AccessControl.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Security.Cryptography.Pkcs.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Security.Principal.Windows.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Text.Encodings.Web.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Text.Json.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.ValueTuple.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\EnvDTE.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\stdole.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\EnvDTE80.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Build.Tasks.Core.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\VSLangProj.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\VSLangProj80.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.MSXML.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Build.Utilities.Core.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Build.Framework.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.VisualStudio.Interop.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\VSLangProj2.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Azure.Core.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Azure.Identity.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Bcl.Cryptography.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.Options.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Identity.Client.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.Abstractions.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Buffers.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.ClientModel.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Data.SqlClient.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.IO.FileSystem.AccessControl.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Memory.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Memory.Data.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Numerics.Vectors.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Security.AccessControl.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Security.Cryptography.Pkcs.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Security.Principal.Windows.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Text.Encodings.Web.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Text.Json.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\System.ValueTuple.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\EnvDTE.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\EnvDTE80.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\VSLangProj.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\VSLangProj80.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\VSLangProj2.xml
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\cs\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\pl\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\tr\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.csproj.AssemblyReference.cache
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.csproj.SuggestedBindingRedirects.cache
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.exe.config
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.EntryPoint.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.ExamGen.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.pickCrsExam.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.takeExam.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.FrmRep1.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.FrmMain.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.FrmRep2.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.FrmRep3.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.FrmRep4.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.FrmRep5.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.FrmRep6.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.InstructorMainPage.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.InstructorMenu.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.Properties.Resources.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.StudentMainPage.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.StudentMenu.resources
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.csproj.GenerateResource.cache
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.csproj.CoreCompileInputs.cache
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\Willwork.9B3B955C.Up2Date
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.exe
+D:\ITI\SQL Project\To_Submit\Code_Styling\obj\Debug\WillworkIsha.pdb
